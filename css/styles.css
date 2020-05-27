@@ -1,0 +1,14 @@
+h2.intro {
+  color: aquamarine;
+  font: serif;
+}
+
+p.intro {
+  color: rebeccapurple;
+  font: gothic;
+}
+
+img.intro {
+  height: 300px;
+  width: 300px;
+}
